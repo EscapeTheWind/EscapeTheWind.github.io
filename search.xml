@@ -69,12 +69,10 @@
 </li>
 <li><p>hexo live2d插件2.0：<br> <a href="https://huaji8.top/post/live2d-plugin-2.0/" target="_blank" rel="noopener">https://huaji8.top/post/live2d-plugin-2.0/</a></p>
 </li>
-<li><p>添加动态线条背景：</p>
-<p> <a href="https://www.jianshu.com/p/ea3990fe76f6" target="_blank" rel="noopener">https://www.jianshu.com/p/ea3990fe76f6</a></p>
+<li><p>添加动态线条背景：<br> <a href="https://www.jianshu.com/p/ea3990fe76f6" target="_blank" rel="noopener">https://www.jianshu.com/p/ea3990fe76f6</a></p>
  <figure class="highlight"><table><tr><td class="code"><pre><span class="line">&#123;% if theme.canvas_nest %&#125;</span><br><span class="line">	&lt;script type="text/javascript" </span><br><span class="line">		color="65,105,225" opacity='1' zIndex="-2" count="75" src="//cdn.bootcss.com/canvas-nest.js/1.0.0/canvas-nest.min.js"&gt;		&lt;/script&gt;</span><br><span class="line">	&lt;script type="text/javascript" </span><br><span class="line">		color="255,165,0" opacity='1' zIndex="-2" count="75" src="//cdn.bootcss.com/canvas-nest.js/1.0.0/canvas-nest.min.js"&gt;		&lt;/script&gt;</span><br><span class="line">&#123;% endif %&#125;</span><br></pre></td></tr></table></figure>
 </li>
-<li><p>利用notepad++搜索文件夹内所有文件，已查询某字段信息：</p>
-<p><a href="https://zhidao.baidu.com/question/1639905998566165260.html" target="_blank" rel="noopener">https://zhidao.baidu.com/question/1639905998566165260.html</a></p>
+<li><p>利用notepad++搜索文件夹内所有文件，已查询某字段信息：<br><a href="https://zhidao.baidu.com/question/1639905998566165260.html" target="_blank" rel="noopener">https://zhidao.baidu.com/question/1639905998566165260.html</a></p>
 </li>
 </ol>
 ]]></content>
